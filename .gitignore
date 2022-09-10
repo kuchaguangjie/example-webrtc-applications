@@ -4,3 +4,10 @@ sfu-ws/key.pem
 *.ogg
 *.ivf
 *.h264
+
+### example binary & description,
+gstreamer-receive/browser-sd
+gstreamer-receive/gstreamer-receive
+gstreamer-send/browser-sd
+gstreamer-send/gstreamer-send
+
